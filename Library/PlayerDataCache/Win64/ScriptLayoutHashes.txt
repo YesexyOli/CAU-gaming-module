@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/oli/New Unity Project (2)/Build/New Unity Project (2).exe
+C:/Users/steph-dm/Desktop/CAU/Game/CAU-gaming-module/New Unity Project (2).exe
 SceneListBegin?
 Assets/SampleScene.unity
 SceneListEnd?
